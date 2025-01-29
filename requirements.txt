@@ -1,0 +1,5 @@
+opencv-python
+Pillow
+numpy
+tk
+# pip install -r requirements.txt
